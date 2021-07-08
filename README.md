@@ -20,6 +20,6 @@ Added more feature to the previous version of TO-DO list maker app, major change
 
 ## Next version features(v3):
 * **Automatic reminders** for your pending tasks using any medium you choose, be it mail, message or, notification.
-* Application for the same for your **andriod mobile**.
+* Application for the same for your **android mobile**.
 * Interaction among **various devices**.
 * **Schedule recognizing** for giving automatic recommendation for setting up tasks.
