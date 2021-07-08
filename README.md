@@ -8,8 +8,8 @@ Added more feature to the previous version of TO-DO list maker app, major change
 * Fast access to your TO-DO list with secure data storage since I am using MongoDB Atlas for Backend.
 * Added option to create new lists and get acees to them anytime.
 * Added option to delete your finished tasks once it is over.
-
-` The web app will soon be hosted online. `
+<!-- 
+` The web app will soon be hosted online. ` -->
 ### Stay connected for furthur updates 
 
 **The next version is going to be fully automized according to your needs, it will involve** ***AI and ML*** 
