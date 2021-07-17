@@ -7,6 +7,7 @@ Added more feature to the previous version of TO-DO list maker app, major change
 ## Newer features : 
 * Fast access to your TO-DO list with secure data storage since I am using MongoDB Atlas for Backend.
 * Added option to create new lists and get acees to them anytime.
+  * To create a new list just add a new title to the given link at the end (e.g., https://aqueous-bastion-46128.herokuapp.com/Home for creating a new list with "Home" as title) and you can have a new list.
 * Added option to delete your finished tasks once it is over.
 <!-- 
 ` The web app will soon be hosted online. ` -->
