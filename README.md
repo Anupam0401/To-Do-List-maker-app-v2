@@ -15,7 +15,7 @@ Added more feature to the previous version of TO-DO list maker app, major change
 
 **The next version is going to be fully automized according to your needs, it will involve** ***AI and ML*** 
 **to track your tasks and suggest you options to set your future tasks.** 
-*I have tried my best to come up with best possible features a To-Do app can have and would love to know your opinions on it.*
+<!-- *I have tried my best to come up with best possible features a To-Do app can have and would love to know your opinions on it.* -->
 
 ### Check out some of the most significant changes to be made: -
 
