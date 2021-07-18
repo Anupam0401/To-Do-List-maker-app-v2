@@ -26,4 +26,4 @@ Added more feature to the previous version of TO-DO list maker app, major change
 * **Schedule recognizing** for giving automatic recommendation for setting up tasks.
 
 
-***Let me know the feebacks and recommendations to it by reaching me out on  : [link](https://github.com/Anupam0401/Anupam0401)***
+> ***Let me know the feebacks and recommendations to it by reaching me out on  : [link](https://github.com/Anupam0401/Anupam0401)***
