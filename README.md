@@ -2,7 +2,7 @@
 Added more feature to the previous version of TO-DO list maker app, major changes includes adding different fields and deleting items when over.
 
 # Head over to this [link](https://aqueous-bastion-46128.herokuapp.com/) and access the app.
-***Let me know the feebacks and recommendations to it by reaching me out on***  : [link](https://github.com/Anupam0401/Anupam0401)
+
 
 ## Newer features : 
 * Fast access to your TO-DO list with secure data storage since I am using MongoDB Atlas for Backend.
@@ -24,3 +24,6 @@ Added more feature to the previous version of TO-DO list maker app, major change
 * Application for the same for your **android mobile**.
 * Interaction among **various devices**.
 * **Schedule recognizing** for giving automatic recommendation for setting up tasks.
+
+
+***Let me know the feebacks and recommendations to it by reaching me out on  : [link](https://github.com/Anupam0401/Anupam0401)***
